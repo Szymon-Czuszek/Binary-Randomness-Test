@@ -4,7 +4,7 @@ This procedure is designed to evaluate the randomness of a sequence of bytes gen
 ## 🎯 Purpose
 The purpose of this procedure is to determine if a given sequence of bytes exhibits characteristics of randomness. It utilizes statistical tests to analyze the distribution of ones and zeros within the byte sequence.
 
-## Tools Used
+## 🛠️ Tools Used
 - Selenium: For web automation to interact with online tools.
 - Requests: For making HTTP requests.
 - Chrome WebDriver: Used for browser automation.
