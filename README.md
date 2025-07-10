@@ -6,7 +6,7 @@ The purpose of this procedure is to determine if a given sequence of bytes exhib
 
 ## 🛠️ Tools Used
 - 🕹️ Selenium: For web automation to interact with online tools.
-- Requests: For making HTTP requests.
+- 🌐 Requests: For making HTTP requests.
 - Chrome WebDriver: Used for browser automation.
 
 ## Procedure Overview
