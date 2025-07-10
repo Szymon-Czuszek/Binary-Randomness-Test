@@ -9,7 +9,7 @@ The purpose of this procedure is to determine if a given sequence of bytes exhib
 - 🌐 Requests: For making HTTP requests.
 - 🧭 Chrome WebDriver: Used for browser automation.
 
-## Procedure Overview
+## 📋 Procedure Overview
 - Record the start time of the procedure.
 - Initialize the WebDriver for Chrome.
 - Navigate to random.org to generate a sequence of random bytes.
