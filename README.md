@@ -19,7 +19,7 @@ The purpose of this procedure is to determine if a given sequence of bytes exhib
 - 🧹 Format and preprocess the byte sequence.
 - 🔢 Calculate the count of ones and zeros in the sequence.
 - ➖ Compute the absolute difference between the counts.
-- Calculate the test statistic (Sobs).
+- 🧮 Calculate the test statistic (Sobs).
 - Perform statistical analysis using online tools to determine randomness.
 - Record the end time of the procedure.
 - Calculate the elapsed time of the procedure.
