@@ -21,7 +21,7 @@ The purpose of this procedure is to determine if a given sequence of bytes exhib
 - ➖ Compute the absolute difference between the counts.
 - 🧮 Calculate the test statistic (Sobs).
 - 📊 Perform statistical analysis using online tools to determine randomness.
-- Record the end time of the procedure.
+- ⏹️ Record the end time of the procedure.
 - Calculate the elapsed time of the procedure.
 
 ## How to Use
