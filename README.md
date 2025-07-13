@@ -22,7 +22,7 @@ The purpose of this procedure is to determine if a given sequence of bytes exhib
 - 🧮 Calculate the test statistic (Sobs).
 - 📊 Perform statistical analysis using online tools to determine randomness.
 - ⏹️ Record the end time of the procedure.
-- Calculate the elapsed time of the procedure.
+- ⏳ Calculate the elapsed time of the procedure.
 
 ## How to Use
 - Ensure Python and the necessary libraries (selenium, requests) are installed.
