@@ -28,7 +28,7 @@ The purpose of this procedure is to determine if a given sequence of bytes exhib
 - 💻 Ensure Python and the necessary libraries (selenium, requests) are installed.
 - 🧩 Download and configure the appropriate WebDriver for Chrome.
 - 🏃‍♂️ Run the script and observe the output.
-- Interpret the results based on the statistical analysis.
+- 🔍 Interpret the results based on the statistical analysis.
 
 ## Note
 - This procedure utilizes online tools for statistical analysis. Ensure a stable internet connection.
